@@ -2,7 +2,6 @@
 import Button from "../components/button.astro";
 import Projects from "../components/home/projects.astro";
 import Separator from "../components/home/separator.astro";
-import Writings from "../components/home/writings.astro";
 import Layout from "../layouts/main.astro";
 ---
 
@@ -18,7 +17,7 @@ import Layout from "../layouts/main.astro";
           Hello, I'm Julian.
         </h1>
         <p class="mb-6 text-base text-neutral-600 dark:text-neutral-400">
-          I'm an front-end programmer living in Mexico. <br
+          I'm an front-end programmer living in Mexico City. <br
             class="hidden lg:block"
           />I focus on Android development.
         </p>
@@ -28,12 +27,12 @@ import Layout from "../layouts/main.astro";
         <ul
           class="py-2 space-y-[3px] text-sm list-disc list-inside text-neutral-500 dark:text-neutral-400"
         >
-          <li>Android Development</li>
-          <li>Node.js Development</li>
-          <li>Website Design</li>
+          <li>Maintenance and updates</li>
+          <li>Migrations from Java or React Native</li>
+          <li>Custom solutions</li>
           <li>and more...</li>
         </ul>
-        <Button text="Follow me on 𝕏" link="https://x.com/0xKaiBi" />
+        <Button text="Contact me" link="https://www.linkedin.com/in/julian-guzman-longoria/" />
       </div>
       <div
         class="relative justify-end hidden w-full mt-10 md:flex md:pl-10 md:w-1/2 md:mt-0 md:translate-y-4 xl:translate-y-0"
@@ -70,6 +69,4 @@ import Layout from "../layouts/main.astro";
 
   <Separator text="Check out my projects" />
   <Projects />
-  <Separator text="Some of my writing" />
-  <Writings />
 </Layout>

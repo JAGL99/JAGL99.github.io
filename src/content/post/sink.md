@@ -5,7 +5,7 @@ description: A short link system based on Cloudflare with visit statistics
 dateFormatted: Jun 4th, 2024
 ---
 
-I previously shared some websites on [Twitter](https://x.com/0xKaiBi) using short links to make it easier to see if people are interested. Among these link shortening systems, Dub provides the best user experience, but it has a fatal flaw: once the monthly clicks exceed 1000, you can no longer view the statistics.
+I previously shared some websites on [Twitter](https://www.linkedin.com/in/julian-guzman-longoria/) using short links to make it easier to see if people are interested. Among these link shortening systems, Dub provides the best user experience, but it has a fatal flaw: once the monthly clicks exceed 1000, you can no longer view the statistics.
 
 While surfing the internet at home during the Qingming Festival, I discovered that [Cloudflare Workers Analytics Engine](https://developers.cloudflare.com/analytics/analytics-engine/) supports data writing and API data querying. So, I created an MVP version myself, capable of handling statistics for up to 3,000,000 visits per month. Cloudflare's backend likely uses Clickhouse, so performance shouldn't be a significant issue.
 
@@ -56,4 +56,4 @@ Site Token: `SinkCool`
 
 ---
 
-Finally, feel free to follow me on [Twitter](https://x.com/0xKaiBi) for updates on development progress and to share some web development news.
+Finally, feel free to follow me on [Twitter](https://www.linkedin.com/in/julian-guzman-longoria/) for updates on development progress and to share some web development news.

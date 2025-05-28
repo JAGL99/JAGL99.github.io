@@ -1,38 +1,26 @@
 [
 	{
-		"name": "TempMail.Best",
-		"description": "Best Temporary Email.",
+		"name": "Pet´s Home",
+		"description": "Pets E-commerce Platform.",
 		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
+		"url": "https://petshome.com.mx/tienda/"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"name": "Teper",
+		"description": "Find bus stops, track schedules, and manage your commutes—all in one app.",
 		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"url": "https://play.google.com/store/apps/details?id=com.mobilityado.teper"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
+		"name": "Ahorrobus",
+		"description": "Check urban and intercity bus schedules for Grupo ADO and manage your Ahorrobus card from your mobile.",
 		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"url": "https://play.google.com/store/apps/details?id=com.mobilityado.intermedio"
 	},
 	{
-		"name": "Sink",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
+		"name": "Banca Empresarial Azteca",
+		"description": "The digital extension of Azteca Business Banking for secure transactions anywhere, anytime.",
 		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
-	},
-	{
-		"name": "BroadcastChannel",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
-	},
-	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"url": "https://play.google.com/store/apps/details?id=mx.com.bancaempresarialazteca.appbea1"
 	}
 ]

@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
+		"dates": "January 2023 · Present",
+		"role": "Android Developer",
+		"company": "Gendra",
+		"description": "Responsible on the development and maintenance of the Ahorrobus app, and the development of the Teper app.",
+		"logo": "/assets/images/experiences/gendra.png"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
+		"dates": "June 2022 · January 2023",
+		"role": "Android Developer",
+		"company": "AsTecsI",
+		"description": "Responsible for B.E.A app development and maintenance.",
+		"logo": "/assets/images/experiences/asteci.jpeg"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
+		"dates": "January 2020 · May 2022",
+		"role": "Developer",
+		"company": "EON Igniting Business",
+		"description": "Web and Android developer for various clients.",
+		"logo": "/assets/images/experiences/eon.jpeg"
 	}
 ]

@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Pet´s Home",
+		"name": "'In development' - Pet´s Home",
 		"description": "Pets E-commerce Platform.",
 		"image": "/assets/images/projects/workInProgress.png",
 		"url": "https://petshome.com.mx/tienda/"
 	},
 	{
 		"name": "Teper",
-		"description": "Find bus stops, track schedules, and manage your commutes—all in one app.",
+		"description": "Employee transportation app for ADO Group.",
 		"image": "/assets/images/projects/workInProgress.png",
 		"url": "https://play.google.com/store/apps/details?id=com.mobilityado.teper"
 	},
 	{
 		"name": "Ahorrobus",
-		"description": "Check urban and intercity bus schedules for Grupo ADO and manage your Ahorrobus card from your mobile.",
+		"description": "Intercity transportation app for ADO Group.",
 		"image": "/assets/images/projects/workInProgress.png",
 		"url": "https://play.google.com/store/apps/details?id=com.mobilityado.intermedio"
 	},
 	{
 		"name": "Banca Empresarial Azteca",
-		"description": "The digital extension of Azteca Business Banking for secure transactions anywhere, anytime.",
+		"description": "Business app of Azteca Bank.",
 		"image": "/assets/images/projects/workInProgress.png",
 		"url": "https://play.google.com/store/apps/details?id=mx.com.bancaempresarialazteca.appbea1"
 	}

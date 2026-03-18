@@ -1,23 +1,44 @@
 [
 	{
-		"dates": "January 2023 · Present",
+		"dates": "January 2026 · Present",
+		"role": "Android Developer",
+		"company": "Nova Solutions Systems",
+		"description": "Responsible on the development and maintenance of the Ahorrobus app, and the development of the Teper app.",
+		"logo": "/assets/images/experiences/nova.png"
+	},
+	{
+		"dates": "July 2025 · December 2025",
+		"role": "Android Developer",
+		"company": "Grupo Nach",
+		"description": "As a Developer at Grupo Nach assigned to Banco Azteca, I have been responsible for developing credit-related features, resolving production incidents, and addressing technical debt.",
+		"logo": "/assets/images/experiences/nach.jpeg"
+	},
+	{
+		"dates": "September 2024 · July 2025",
+		"role": "Senior Android Developer",
+		"company": "Bigsmart",
+		"description": "At BigSmart, I spearheaded the digital transformation by migrating hybrid applications into high-performance, modular native Android systems.",
+		"logo": "/assets/images/experiences/bigsmart.png"
+	},
+	{
+		"dates": "January 2023 · September 2024",
 		"role": "Android Developer",
 		"company": "Gendra",
-		"description": "Responsible on the development and maintenance of the Ahorrobus app, and the development of the Teper app.",
+		"description": "As an Android Developer at Gendra, I spearheaded the development and maintenance of the Ahorrobus and Teper applications, ensuring high-quality mobile solutions.",
 		"logo": "/assets/images/experiences/gendra.png"
 	},
 	{
 		"dates": "June 2022 · January 2023",
 		"role": "Android Developer",
 		"company": "AsTecsI",
-		"description": "Responsible for B.E.A app development and maintenance.",
+		"description": "As an Android Developer at AsTecsI, I was responsible for the end-to-end development and ongoing maintenance of the B.E.A. application.",
 		"logo": "/assets/images/experiences/asteci.jpeg"
 	},
 	{
 		"dates": "January 2020 · May 2022",
-		"role": "Developer",
+		"role": "Jr. Developer",
 		"company": "EON Igniting Business",
-		"description": "Web and Android developer for various clients.",
+		"description": "As a Jr. Developer at EON Igniting Business, I delivered web and Android solutions for a diverse portfolio of clients.",
 		"logo": "/assets/images/experiences/eon.jpeg"
 	}
 ]
